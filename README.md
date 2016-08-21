@@ -1,5 +1,6 @@
 # PageGridView
 支持纵向，横向，水平分页的gridview
+具体实现请看[博客](http://blog.csdn.net/qq_22706515/article/details/52266641)
 #效果
 
 ![效果](https://github.com/zhuguohui/PageGridView/blob/master/gif/1.gif?raw=true)
